@@ -1,3 +1,4 @@
+[fmo.html](https://github.com/user-attachments/files/24552398/fmo.html)
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +10,7 @@
     <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' https: data: blob:; media-src *; frame-src 'none';">
     <meta name="referrer" content="no-referrer">
     
-    <title>Radio F.M</title>
+    <title>راديو إف إم - مشغل راديو وموسيقى</title>
     
     <!-- تنسيقات CSS -->
     <style>
@@ -431,11 +432,60 @@
                 genre: "موسيقى عربية كلاسيكية",
                 image: "https://www.aljazeera.net/wp-content/uploads/2018/11/bd65b554-e8d0-4198-98ff-e65b21e991f8.jpeg",
                 streamUrl: "https://stream.zeno.fm/c0akqv6cz4zuv"
+			 },
+            {
+                id: 5,
+                name: "جورج وسوف FM",
+                artist: "",
+                genre: "",
+                image: "https://www.shutterstock.com/shutterstock/videos/1105026177/thumb/5.jpg?ip=x480",
+                streamUrl: "https://stream.zeno.fm/9eb3xms1uk8uv"
+			 },
+            {
+                id: 6,
+                name: " زمانFM",
+                artist: "",
+                genre: "",
+                image: "https://www.shutterstock.com/shutterstock/videos/1105026177/thumb/5.jpg?ip=x480",
+                streamUrl: "https://stream.zeno.fm/tb47xcqv1zhvv"
+			 },
+            {
+                id: 7,
+                name: "  ميكس FM",
+                artist: "",
+                genre: "",
+                image: "https://www.shutterstock.com/shutterstock/videos/1105026177/thumb/5.jpg?ip=x480",
+                streamUrl: "https://stream.zeno.fm/xbohf8qf5uauv"
+
+			 },
+            {
+                id: 8,
+                name: "فريش FM",
+                artist: "",
+                genre: "",
+                image: "https://www.shutterstock.com/shutterstock/videos/1105026177/thumb/5.jpg?ip=x480",
+                streamUrl: "https://stream.zeno.fm/uphwwzpa2k8uv"
+			 },
+            {
+                id: 9,
+                name: "الشام FM",
+                artist: "",
+                genre: "",
+                image: "https://www.shutterstock.com/shutterstock/videos/1105026177/thumb/5.jpg?ip=x480",
+                streamUrl: "https://stream.zeno.fm/nydqmupwryitv"
+			 },
+            {
+                id: 10,
+                name: "باور FM",
+                artist: "",
+                genre: "",
+                image: "https://www.shutterstock.com/shutterstock/videos/1105026177/thumb/5.jpg?ip=x480",
+                streamUrl: "https://stream.zeno.fm/g7fkrdpjmvouv"	
             }
         ];
 
         // إضافة محطات فارغة
-        for (let i = 5; i <= 24; i++) {
+        for (let i = 11; i <= 24; i++) {
             stations.push({
                 id: i,
                 name: `محطة ${i}`,

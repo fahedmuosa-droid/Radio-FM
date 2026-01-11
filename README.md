@@ -1,4 +1,3 @@
-# Radio-FM<>
 <html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
@@ -10,7 +9,7 @@
     <meta http-equiv="Content-Security-Policy" content="default-src 'self' https: data: blob:; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' https: data: blob:; media-src *; frame-src 'none';">
     <meta name="referrer" content="no-referrer">
     
-    <title>راديو إف إم - مشغل راديو وموسيقى</title>
+    <title>Radio F.M</title>
     
     <!-- تنسيقات CSS -->
     <style>
